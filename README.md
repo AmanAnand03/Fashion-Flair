@@ -24,8 +24,7 @@ In  Homepage in the corner of top of the right side there is a six module:-
 ![4](https://github.com/AmanAnand03/Fashion-Flair/assets/144671231/9f43b84f-c68f-4302-86fe-b88453920482)
 ![5](https://github.com/AmanAnand03/Fashion-Flair/assets/144671231/c6ad53ba-3179-4b03-b39a-3b31d2f925f4)
 
-###  This is the homepage of website. The customer directlty order through the website without Id login.
-The website  deals with cloth likes traditional dress, western dress and cultural dress.
+###  This is the homepage of website. The customer directlty order through the website without Id login.The website  deals with cloth likes traditional dress, western dress and cultural dress.
 
 ## Shop :
  ![9](https://github.com/AmanAnand03/Fashion-Flair/assets/144671231/67b42145-fb42-47c5-adbe-ac892e6a8a28)
